@@ -33,4 +33,4 @@ The provided source code is portable and can be adapted to different environment
 1. Modify the project settings and paths as needed for your environment.
 2. Compile and run the project.
 
-For additional information or troubleshooting, refer to the code comments./txpoolstate/txpool-state
+For additional information or troubleshooting, refer to the code comments.
